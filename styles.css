@@ -285,7 +285,9 @@ footer {
 }
 
 .email-contact{
+  position: relative;
   padding: 20px;
+  left: 113px;
 }
 
 .card{
